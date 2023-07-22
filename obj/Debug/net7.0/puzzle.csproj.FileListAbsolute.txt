@@ -1,0 +1,45 @@
+C:\Users\U S E R\Desktop\puzzle\bin\Debug\net7.0\puzzle.exe
+C:\Users\U S E R\Desktop\puzzle\bin\Debug\net7.0\puzzle.deps.json
+C:\Users\U S E R\Desktop\puzzle\bin\Debug\net7.0\puzzle.runtimeconfig.json
+C:\Users\U S E R\Desktop\puzzle\bin\Debug\net7.0\puzzle.dll
+C:\Users\U S E R\Desktop\puzzle\bin\Debug\net7.0\puzzle.pdb
+C:\Users\U S E R\Desktop\puzzle\obj\Debug\net7.0\puzzle.csproj.AssemblyReference.cache
+C:\Users\U S E R\Desktop\puzzle\obj\Debug\net7.0\puzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U S E R\Desktop\puzzle\obj\Debug\net7.0\puzzle.AssemblyInfoInputs.cache
+C:\Users\U S E R\Desktop\puzzle\obj\Debug\net7.0\puzzle.AssemblyInfo.cs
+C:\Users\U S E R\Desktop\puzzle\obj\Debug\net7.0\puzzle.csproj.CoreCompileInputs.cache
+C:\Users\U S E R\Desktop\puzzle\obj\Debug\net7.0\puzzle.dll
+C:\Users\U S E R\Desktop\puzzle\obj\Debug\net7.0\refint\puzzle.dll
+C:\Users\U S E R\Desktop\puzzle\obj\Debug\net7.0\puzzle.pdb
+C:\Users\U S E R\Desktop\puzzle\obj\Debug\net7.0\puzzle.genruntimeconfig.cache
+C:\Users\U S E R\Desktop\puzzle\obj\Debug\net7.0\ref\puzzle.dll
+C:\Users\U S E R\Desktop\8 Puzzle\bin\Debug\net7.0\puzzle.exe
+C:\Users\U S E R\Desktop\8 Puzzle\bin\Debug\net7.0\puzzle.deps.json
+C:\Users\U S E R\Desktop\8 Puzzle\bin\Debug\net7.0\puzzle.runtimeconfig.json
+C:\Users\U S E R\Desktop\8 Puzzle\bin\Debug\net7.0\puzzle.dll
+C:\Users\U S E R\Desktop\8 Puzzle\bin\Debug\net7.0\puzzle.pdb
+C:\Users\U S E R\Desktop\8 Puzzle\obj\Debug\net7.0\puzzle.csproj.AssemblyReference.cache
+C:\Users\U S E R\Desktop\8 Puzzle\obj\Debug\net7.0\puzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U S E R\Desktop\8 Puzzle\obj\Debug\net7.0\puzzle.AssemblyInfoInputs.cache
+C:\Users\U S E R\Desktop\8 Puzzle\obj\Debug\net7.0\puzzle.AssemblyInfo.cs
+C:\Users\U S E R\Desktop\8 Puzzle\obj\Debug\net7.0\puzzle.csproj.CoreCompileInputs.cache
+C:\Users\U S E R\Desktop\8 Puzzle\obj\Debug\net7.0\puzzle.dll
+C:\Users\U S E R\Desktop\8 Puzzle\obj\Debug\net7.0\refint\puzzle.dll
+C:\Users\U S E R\Desktop\8 Puzzle\obj\Debug\net7.0\puzzle.pdb
+C:\Users\U S E R\Desktop\8 Puzzle\obj\Debug\net7.0\puzzle.genruntimeconfig.cache
+C:\Users\U S E R\Desktop\8 Puzzle\obj\Debug\net7.0\ref\puzzle.dll
+D:\KULIAH\SEMESTER 4\Kecerdasan Buatan - 3 SKS\TUGAS 8  PUZZLE C#\8 Puzzle\bin\Debug\net7.0\puzzle.exe
+D:\KULIAH\SEMESTER 4\Kecerdasan Buatan - 3 SKS\TUGAS 8  PUZZLE C#\8 Puzzle\bin\Debug\net7.0\puzzle.deps.json
+D:\KULIAH\SEMESTER 4\Kecerdasan Buatan - 3 SKS\TUGAS 8  PUZZLE C#\8 Puzzle\bin\Debug\net7.0\puzzle.runtimeconfig.json
+D:\KULIAH\SEMESTER 4\Kecerdasan Buatan - 3 SKS\TUGAS 8  PUZZLE C#\8 Puzzle\bin\Debug\net7.0\puzzle.dll
+D:\KULIAH\SEMESTER 4\Kecerdasan Buatan - 3 SKS\TUGAS 8  PUZZLE C#\8 Puzzle\bin\Debug\net7.0\puzzle.pdb
+D:\KULIAH\SEMESTER 4\Kecerdasan Buatan - 3 SKS\TUGAS 8  PUZZLE C#\8 Puzzle\obj\Debug\net7.0\puzzle.csproj.AssemblyReference.cache
+D:\KULIAH\SEMESTER 4\Kecerdasan Buatan - 3 SKS\TUGAS 8  PUZZLE C#\8 Puzzle\obj\Debug\net7.0\puzzle.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\SEMESTER 4\Kecerdasan Buatan - 3 SKS\TUGAS 8  PUZZLE C#\8 Puzzle\obj\Debug\net7.0\puzzle.AssemblyInfoInputs.cache
+D:\KULIAH\SEMESTER 4\Kecerdasan Buatan - 3 SKS\TUGAS 8  PUZZLE C#\8 Puzzle\obj\Debug\net7.0\puzzle.AssemblyInfo.cs
+D:\KULIAH\SEMESTER 4\Kecerdasan Buatan - 3 SKS\TUGAS 8  PUZZLE C#\8 Puzzle\obj\Debug\net7.0\puzzle.csproj.CoreCompileInputs.cache
+D:\KULIAH\SEMESTER 4\Kecerdasan Buatan - 3 SKS\TUGAS 8  PUZZLE C#\8 Puzzle\obj\Debug\net7.0\puzzle.dll
+D:\KULIAH\SEMESTER 4\Kecerdasan Buatan - 3 SKS\TUGAS 8  PUZZLE C#\8 Puzzle\obj\Debug\net7.0\refint\puzzle.dll
+D:\KULIAH\SEMESTER 4\Kecerdasan Buatan - 3 SKS\TUGAS 8  PUZZLE C#\8 Puzzle\obj\Debug\net7.0\puzzle.pdb
+D:\KULIAH\SEMESTER 4\Kecerdasan Buatan - 3 SKS\TUGAS 8  PUZZLE C#\8 Puzzle\obj\Debug\net7.0\puzzle.genruntimeconfig.cache
+D:\KULIAH\SEMESTER 4\Kecerdasan Buatan - 3 SKS\TUGAS 8  PUZZLE C#\8 Puzzle\obj\Debug\net7.0\ref\puzzle.dll
